@@ -90,7 +90,7 @@ class _Home_ScreenState extends State<Home_Screen> {
                 trailing: Icon(Icons.settings),
               ),
               ListTile(
-           
+
                 onTap: () {
                   launch('www.gogale.com');
                 },
@@ -100,7 +100,7 @@ class _Home_ScreenState extends State<Home_Screen> {
               ListTile(
 
                 onTap: () {
-                  launch('www.gogale.com');
+                  launch('www.youtube.com');
                 },
                 title: Center(child: Text("  امتیاز دادن")),
                 trailing: Icon(Icons.stacked_bar_chart),
