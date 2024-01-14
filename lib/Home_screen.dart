@@ -92,7 +92,7 @@ class _Home_ScreenState extends State<Home_Screen> {
               ListTile(
 
                 onTap: () {
-                  launch('www.gogale.com');
+                  launch('www.email.com');
                 },
                 title: Center(child: Text("دیگر برنامه ها")),
                 trailing: Icon(Icons.account_circle_rounded),
