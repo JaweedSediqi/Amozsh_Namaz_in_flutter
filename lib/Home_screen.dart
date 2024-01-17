@@ -241,7 +241,7 @@ class _SettingState extends State<Setting> {
     return Scaffold(
       appBar: AppBar(
         title: Center(
-          child: Text('تنیظیمات'),
+          child: Text('تنیظیمdات'),
         ),
       ),
     );
